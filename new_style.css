@@ -1,0 +1,96 @@
+body {
+    overflow-x: hidden;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .brand {
+    align-self: center;
+  }
+  
+  .sidebar {
+    padding: 1.5rem;
+    background-color: #fdfffe;
+  }
+  
+  .sidebar-sections {
+    color: grey;
+    font-weight: 500;
+  }
+  
+  .bi-list {
+    color: black;
+  }
+  
+  .bi-calendar {
+    color: #0096c7;
+  }
+  
+  .bi-people {
+    color: #06d6a0;
+  }
+  
+  .bi-chat {
+    color: #ffd166;
+  }
+  
+  .bi-envelope {
+    color: #ef476f;
+  }
+  
+  .trial-progress {
+    height: 5px;
+  }
+  
+  .trial-progress > .progress-bar {
+    background-color: #55a630;
+  }
+  
+  .right-nav > a {
+    padding: 0.5rem;
+    color: black;
+  }
+  
+  .image--cover {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center right;
+  }
+  
+  .form-control {
+    border: none;
+  }
+  
+  .navbar {
+    background-color: white;
+  }
+  
+  .dashboard-head {
+    font-weight: 600;
+    font-size: 1.5rem;
+  }
+  
+  .dashboard-subhead {
+    font-size: 1rem;
+    color: grey;
+  }
+  
+  .totalimg {
+    width: 15.146 rem;
+  }
+  
+  .sidebar-collapse {
+    display: none;
+  }
+  
+  @media (max-width: 1200px) {
+    .sidebar-sm-collapse {
+      display: none;
+    }
+  }
+  
